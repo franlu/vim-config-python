@@ -11,8 +11,8 @@ Clone the project into your local machine:
 
 Create symlinks for `.vim` folder and `.vimrc` file
 
-	$ ln -s /path/to/vim-config-python/.vim ~/.vim
-	$ ln -s /path/to/vim-config-python/.vimrc ~/.vimrc
+	$ ln -s /path/to/vim-config-python/.vim ~/
+	$ ln -s /path/to/vim-config-python/.vimrc ~/
 
 Notes
 -----
