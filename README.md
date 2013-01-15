@@ -14,6 +14,12 @@ Create symlinks for `.vim` folder and `.vimrc` file
 	$ ln -s /path/to/vim-config-python/.vim ~/
 	$ ln -s /path/to/vim-config-python/.vimrc ~/
 
+Features
+--------
+* vim-pathogen
+* vim-fugitive
+* vim-colors-solarized
+
 Notes
 -----
 * The included vimrc file is a sample setting file, you can customize it yourself.
