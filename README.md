@@ -20,7 +20,7 @@ Notes
 
 References
 ----------
-* [Python and Vim: Make your own IDE] (http://dancingpenguinsoflight.com/2009/02/python-and-vim-make-your-own-ide/)
+* [Turning Vim into a modern Python IDE] (http://sontek.net/blog/detail/turning-vim-into-a-modern-python-ide/)
 
 
 
