@@ -6,3 +6,5 @@ filetype plugin indent on
 set background=dark
 colorscheme solarized
 set paste
+set number
+set cursorline
