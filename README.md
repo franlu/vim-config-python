@@ -19,6 +19,8 @@ Features
 * vim-pathogen
 * vim-fugitive
 * vim-colors-solarized
+* NERDtree
+* vim-ruby
 
 Notes
 -----
